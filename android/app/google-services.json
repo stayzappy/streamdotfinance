@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827237908922",
+    "project_id": "streamdotfinance",
+    "storage_bucket": "streamdotfinance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827237908922:android:c47f70617a057fd8d81d83",
+        "android_client_info": {
+          "package_name": "com.example.streamdot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6fotfF7xRQnrkPkH8nlO7fXVlWJPe1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827237908922:android:8e427ad2259e6ce5d81d83",
+        "android_client_info": {
+          "package_name": "com.zappy.streamdot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6fotfF7xRQnrkPkH8nlO7fXVlWJPe1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
