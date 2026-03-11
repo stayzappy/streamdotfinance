@@ -29,8 +29,8 @@ By leveraging the unique architecture of the Polkadot Virtual Machine, StreamDot
 * **Immutable Ledger:** Users can instantly view their entire chronological history of settled, active, and employer-cancelled streams directly from the chain.
 
 ## Deployed Contracts
-* **Network:** Paseo Testnet (PVM)
-* **StreamDot Vault:** [`0x9d939233A26ff54780F980513C1D4420B8C2C6de`](https://blockscout-testnet.polkadot.io/address/0x9d939233A26ff54780F980513C1D4420B8C2C6de)
+* **Testnet (Paseo PVM):** [`0x9d939233A26ff54780F980513C1D4420B8C2C6de`](https://blockscout-testnet.polkadot.io/address/0x9d939233A26ff54780F980513C1D4420B8C2C6de)
+* **Mainnet (Polkadot PVM):** *Migration scheduled pending final testnet audit.*
 
 ## Local Development
 
@@ -41,7 +41,7 @@ By leveraging the unique architecture of the Polkadot Virtual Machine, StreamDot
 **Frontend Setup:**
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/streamdot-finance.git](https://github.com/YOUR_USERNAME/streamdot-finance.git)
+git clone [https://github.com/stayzappy/streamdot-finance.git](https://github.com/stayzappy/streamdot-finance.git)
 cd streamdot-finance
 
 # Install dependencies
@@ -49,4 +49,3 @@ flutter pub get
 
 # Run locally
 flutter run -d chrome
-A new Flutter project.
