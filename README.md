@@ -22,8 +22,8 @@ StreamDot solves this by enabling DAOs and employers to universally stream pure,
   <img src="https://github.com/user-attachments/assets/7684b571-517f-46fd-93c2-19e64d811b22" width="49%" alt="Create Stream View">
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Drop+Pay+Stub+Deep-Link+Screenshot+Here" width="49%" alt="Cryptographic Pay Stub">
-  <img src="https://via.placeholder.com/800x450.png?text=Drop+Active+Drip+Odometer+Screenshot+Here" width="49%" alt="Live Digital Odometer">
+  <img src="https://github.com/user-attachments/assets/31dd04dd-45e6-4e11-9815-6911b2001338" width="49%" alt="Cryptographic Pay Stub">
+  <img src="https://github.com/user-attachments/assets/a506374e-b405-41a8-bff6-8c181055e5d8" width="49%" alt="Live Digital Odometer">
 </p>
 
 ## Under the Hood: PVM Architecture
