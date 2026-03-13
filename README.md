@@ -19,7 +19,7 @@ StreamDot solves this by enabling DAOs and employers to universally stream pure,
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1c48114e-ab40-4b19-9faf-2c2f767fadd2" width="49%" alt="Employer Dashboard">
-  <img src="https://via.placeholder.com/800x450.png?text=Drop+Stream+Creation+Screenshot+Here" width="49%" alt="Create Stream View">
+  <img src="https://github.com/user-attachments/assets/7684b571-517f-46fd-93c2-19e64d811b22" width="49%" alt="Create Stream View">
 </p>
 <p align="center">
   <img src="https://via.placeholder.com/800x450.png?text=Drop+Pay+Stub+Deep-Link+Screenshot+Here" width="49%" alt="Cryptographic Pay Stub">
