@@ -3,7 +3,6 @@
 
 <img width="640" height="341" alt="6" src="https://github.com/user-attachments/assets/b4891d06-4785-4acf-91c0-fc767965d24e" />
 
-
 [![Live dApp](https://img.shields.io/badge/Live_dApp-StreamDot-E6007A?style=for-the-badge)](https://streamdotfinance.web.app)
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-FF0000?style=for-the-badge&logo=youtube)](#) 
 
@@ -15,6 +14,17 @@ StreamDot is a trustless, continuous payroll protocol built natively on the Polk
 Currently, Web3 payroll relies on manual, end-of-the-month batch transfers. This creates counterparty risk for contributors and administrative friction for DAOs. Furthermore, legacy EVM streaming protocols cannot handle Layer-0 gas tokens natively; they force users to wrap their assets (e.g., WETH, WDOT), adding unnecessary transaction fees and severe UX hurdles.
 
 StreamDot solves this by enabling DAOs and employers to universally stream pure, unwrapped native DOT and stablecoins directly to contributors by the second, completely eliminating counterparty risk and token-wrapping friction.
+
+## 📸 Platform Interface
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c48114e-ab40-4b19-9faf-2c2f767fadd2" width="49%" alt="Employer Dashboard">
+  <img src="https://via.placeholder.com/800x450.png?text=Drop+Stream+Creation+Screenshot+Here" width="49%" alt="Create Stream View">
+</p>
+<p align="center">
+  <img src="https://via.placeholder.com/800x450.png?text=Drop+Pay+Stub+Deep-Link+Screenshot+Here" width="49%" alt="Cryptographic Pay Stub">
+  <img src="https://via.placeholder.com/800x450.png?text=Drop+Active+Drip+Odometer+Screenshot+Here" width="49%" alt="Live Digital Odometer">
+</p>
 
 ## Under the Hood: PVM Architecture
 By leveraging the unique architecture of the Polkadot Virtual Machine, StreamDot fundamentally re-engineers how token streaming works:
@@ -42,7 +52,7 @@ By leveraging the unique architecture of the Polkadot Virtual Machine, StreamDot
 **Frontend Setup:**
 ```bash
 # Clone the repository
-git clone [https://github.com/stayzappy/streamdot-finance.git](https://github.com/stayzappy/streamdot-finance.git)
+git clone [https://github.com/YOUR_USERNAME/streamdot-finance.git](https://github.com/YOUR_USERNAME/streamdot-finance.git)
 cd streamdot-finance
 
 # Install dependencies
