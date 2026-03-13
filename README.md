@@ -1,7 +1,8 @@
 # StreamDot Finance
 **The Universal Native Asset Payroll Protocol for Polkadot Asset Hub.**
 
-![StreamDot Dashboard](https://via.placeholder.com/1200x600.png?text=Replace+this+with+your+Dashboard+Screenshot)
+<img width="640" height="341" alt="6" src="https://github.com/user-attachments/assets/b4891d06-4785-4acf-91c0-fc767965d24e" />
+
 
 [![Live dApp](https://img.shields.io/badge/Live_dApp-StreamDot-E6007A?style=for-the-badge)](https://streamdotfinance.web.app)
 [![YouTube Demo](https://img.shields.io/badge/YouTube-Video_Demo-FF0000?style=for-the-badge&logo=youtube)](#) 
